@@ -8,7 +8,7 @@ Com um histórico sólido em operações, já trabalhei em equipes e processos e
 
 Abertos a conexões para trocar conhecimentos e explorar novas possibilidades no setor de tecnologia e operações. 🚀
 
-Dono do: [Fubazito.com.br](http://Fubazito.com.br)
+Dono do: [Fubazito](http://Fubazito.com.br)
 
 ---
 
