@@ -14,9 +14,7 @@ Dono do: [Fubazito.com.br](http://Fubazito.com.br)
 
 ## Experiência no Mercado Livre
 
-**Cargo:** Flow Execution  
-**Período:** out. de 2024 - o momento (6 meses)  
-**Localização:** Cajamar, São Paulo, Brasil
+**Cargo:** Flow Execution
 
 - Monitorar e otimizar o fluxo de operações, garantindo a execução eficiente dos processos logísticos.
 - Gerenciar e analisar dados operacionais utilizando BigQuery e Dashboards para tomada de decisões estratégicas.
